@@ -9,7 +9,7 @@ Release: 	1
 License:	GPLv2
 Group:		Development/Python
 Source0:	https://pypi.io/packages/source/%{mod}/%{oname}/%{oname}-%{version}.tar.gz
-URL:		http://home.gna.org/oomadness/en/editobj/
+URL:		https://home.gna.org/oomadness/en/editobj/
 
 BuildRequires:	pkgconfig(python)
 BuildRequires:	python3dist(setuptools)
